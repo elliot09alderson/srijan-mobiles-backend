@@ -32,6 +32,7 @@ app.use(
       "http://localhost:5173",
       "https://srijan-mobiles-frontend.vercel.app",
       "https://srijanmobiles.store",
+      "https://www.sijanmobiles.store",
     ],
     methods: ["GET", "POST", "DELETE", "PUT"],
     allowedHeaders: [
